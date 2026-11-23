@@ -2,13 +2,11 @@
 
 정소명 지음 | 비제이퍼블릭
 
-책의 각 장 끝에서 안내하는 독자용 워크시트입니다. A4 6쪽, 장마다 1쪽입니다.
+책의 각 장 끝에서 안내하는 독자용 워크시트와 본문 이미지를 모아 둔 곳입니다.
 
-## 내려받기
+## 워크시트 내려받기
 
-[girok_worksheets.pdf](https://github.com/bjpublic/girok-book/raw/main/girok_worksheets.pdf)
-
-## 구성
+[girok_worksheets.pdf](https://github.com/bjpublic/girok-book/raw/main/girok_worksheets.pdf) — A4 6쪽, 장마다 1쪽
 
 | 장 | 워크시트 |
 |---|---|
@@ -19,8 +17,10 @@
 | 5장 | 오늘의 나를 담는 데일리 리포트 |
 | 6장 | 나에게 필요한 기록 실험실 |
 
-## 사용 안내
-
 A4 용지에 인쇄해서 쓰세요. 필요한 쪽만 골라 인쇄해도 됩니다.
+
+## 본문 이미지
+
+[images/](images/) — 책에 실린 그림 99장을 장별로 모았습니다. 책에서 작게 실린 기록 사진을 원본 크기로 볼 수 있습니다.
 
 © 비제이퍼블릭. 개인적인 용도로 자유롭게 인쇄해 사용할 수 있습니다.
